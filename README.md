@@ -1,7 +1,3 @@
 # Project-demo
 This is a demo for git &amp; github class.
-# Teacher
-Rutuja Khande 
-
-# Student 
-Team leader
+I just create a website which include the random sliding images and more.
